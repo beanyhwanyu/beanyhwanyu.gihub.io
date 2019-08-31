@@ -1,3 +1,4 @@
+remote_theme: JustGoodThemes/Scriptor-Jekyll-Theme
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -18,7 +19,7 @@ description: "Scriptor is a minimal, clean, modern & responsive Jekyll theme for
 baseurl: ""
 
 # The base hostname & protocol of your site for where absolute urls are needed.
-url: "https://scriptor-jekyll.netlify.com"
+url: "https://beanyhwanyu.github.io"
 
 # Favicon
 favicon: /images/favicon.png
